@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ayushi%20Mangroliya&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Python%20%7C%20Django%20%7C%20AI%2FML%20Developer&descAlignY=60&descSize=18" width="100%"/>
+<img srch="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ayushi%20Mangroliya&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=AI%2FML%0APython%0ADjango&descAlignY=70&descSize=18&width=100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Python+%2B+Django+Full+Stack+Developer;AI%2FML+Enthusiast;Building+Real-World+Web+Apps" alt="Typing SVG" />
 
