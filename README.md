@@ -121,7 +121,7 @@ Currently working as a **Python Django Full Stack Developer Intern** at Skyway I
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushi9350&theme=radical&hide_border=true" width="60%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushi9350&theme=redical&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushi9350&theme=radical&hide_border=true" width="90%"/>
 
 </div>
 
@@ -129,16 +129,14 @@ Currently working as a **Python Django Full Stack Developer Intern** at Skyway I
 
 ## 🎓 Certifications
 
-| Certificate | Issuer | View |
-|---|---|---|
-| Python for Data Science | NPTEL | [🔍 View](certificates/nptel-python-data-science.jpg) |
-| Green Skills & Artificial Intelligence (Skills4Future) | Edunet Foundation + AICTE + Shell | [🔍 View](certificates/edunet-green-skills-ai.jpg) |
-| Workshop on Software Testing (Manual & Automation) | IEEE KSV Student Branch / LDRP-ITR | [🔍 View](certificates/ieee-software-testing-workshop.jpg) |
-| 5-day STTP — Essential Python Libraries for ML & Data Visualization | LDRP-ITR | [🔍 View](certificates/ldrp-python-libraries-ml.jpg) |
-| National STTP — Linear Algebra for Machine Learning | LDRP-ITR | 🔍 View *(upload pending)* |
-| Python Development Internship — Certificate of Completion | Synent Technologies | [🔍 View](certificates/synent-completion-certificate.jpg) |
-| Python Programming Internship — Certificate of Completion | Oasis Infobyte | [🔍 View](certificates/oasis-infobyte-certificate.jpg) |
-| Letter of Recommendation | Synent Technologies | [🔍 View](certificates/synent-recommendation-letter.jpg) |
+- 🟦 **Python for Data Science** — NPTEL
+- 🟩 **Green Skills & Artificial Intelligence (Skills4Future)** — Edunet Foundation + AICTE + Shell
+- 🟧 **Workshop on Software Testing (Manual & Automation)** — IEEE KSV Student Branch / LDRP-ITR
+- 🟪 **5-day STTP — Essential Python Libraries for ML & Data Visualization** — LDRP-ITR
+- 🟦 **National STTP — Linear Algebra for Machine Learning** — LDRP-ITR
+- 🟩 **Python Development Internship — Certificate of Completion** — Synent Technologies
+- 🟧 **Python Programming Internship — Certificate of Completion** — Oasis Infobyte
+- 🟪 **Letter of Recommendation** — Synent Technologies
 
 ---
 
