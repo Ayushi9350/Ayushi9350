@@ -17,11 +17,18 @@
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mangroliyaayushi9@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushi9350)
 
+<br><br>
+
+![CPI](https://img.shields.io/badge/CPI-8.14-blueviolet?style=flat-square)
+![Projects](https://img.shields.io/badge/Projects-3%2B-orange?style=flat-square)
+![Internships](https://img.shields.io/badge/Internships-2-green?style=flat-square)
+![Certificates](https://img.shields.io/badge/Certificates-8%2B-red?style=flat-square)
+
 </div>
 
 ---
 
-### 📍 Gandhinagar, Gujarat &nbsp;|&nbsp; 🔗 [linkedin.com/in/mangroliya-ayushi](https://linkedin.com/in/mangroliya-ayushi-489a612b1) &nbsp;|&nbsp; 🌐 [ayushiportfoliofinal.vercel.app](https://ayushiportfoliofinal.vercel.app/)
+### 📍 Gandhinagar, Gujarat &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/mangroliya-ayushi-489a612b1) &nbsp;|&nbsp; 🌐 [Portfolio](https://ayushiportfoliofinal.vercel.app/)
 
 ## 👩‍💻 About Me
 
@@ -41,25 +48,41 @@ Currently working as a **Python Django Full Stack Developer Intern** at Skyway I
 
 **Languages**
 
-![](https://skillicons.dev/icons?i=python,c,html,css,js)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Frontend**
 
-![](https://skillicons.dev/icons?i=html,css,js)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Backend & Databases**
 
-![](https://skillicons.dev/icons?i=django,mysql,mongodb)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **AI / ML**
 
-![](https://skillicons.dev/icons?i=python,sklearn,pandas,numpy)
-
-`Scikit-learn` `Pandas` `NumPy` `Seaborn` `NLP` `Model Deployment` `REST APIs`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge)
+![Model Deployment](https://img.shields.io/badge/Model%20Deployment-FF6F61?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-2E8B57?style=for-the-badge)
 
 **DevOps & Tools**
 
-![](https://skillicons.dev/icons?i=git,github,vscode)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
@@ -74,13 +97,18 @@ Currently working as a **Python Django Full Stack Developer Intern** at Skyway I
 
 ## 💼 Experience
 
-**🔹 Python Django Full Stack Developer Intern** — Skyway IT Solution *(May 2026 – Present)*
+**🔹 Python Django Full Stack Developer Intern** — Skyway IT Solution
+*(May 2026 – Present) · Gandhinagar, Gujarat*
+
 - Building modules for singer profiles, event details & data handling on the AnantKala platform
 - Implementing Django backend integrated with HTML/CSS/JS frontend
+- Collaborating with the team to test, debug, and improve performance
 
-**🔹 Python Development Intern (SYN-SIP AICTE)** — Synent Technologies *(Apr – May 2026)*
-**🔹 Python Programming Intern (OIB-SIP AICTE)** — Oasis Infobyte *(Aug – Sep 2025)*
-**🔹 AI/ML Training, Skills4Future** — Edunet Foundation + AICTE + Shell *(Oct 2025 – Mar 2026)*
+**Other Internships & Training**
+
+- 🔹 **Python Development Intern** (SYN-SIP AICTE) — Synent Technologies · *Apr – May 2026*
+- 🔹 **Python Programming Intern** (OIB-SIP AICTE) — Oasis Infobyte · *Aug – Sep 2025*
+- 🔹 **AI/ML Training, Skills4Future** — Edunet Foundation + AICTE + Shell · *Oct 2025 – Mar 2026*
 
 ---
 
