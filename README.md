@@ -1,10 +1,10 @@
 <div align="center">
 
-<img srch="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ayushi%20Mangroliya&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Python%20%7C%20Django%20%7C%20AI%2FML%20Developer&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ayushi%20Mangroliya&fontSize=44&fontColor=ffffff&animation=fadeIn&width=100%" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Python+%2B+Django+Full+Stack+Developer;AI%2FML+Enthusiast;Building+Real-World+Web+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=400&lines=AI%2FML+Enthusiast;Python+Developer" alt="Typing SVG" />
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Ayushi9350&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/Ayushi9350?label=FOLLOWERS&style=for-the-badge&color=blue"/>
@@ -116,12 +116,12 @@ Currently working as a **Python Django Full Stack Developer Intern** at Skyway I
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ayushi9350&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushi9350&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ayushi9350&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushi9350&layout=compact&theme=radical&hide_border=true" width="35%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushi9350&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushi9350&theme=radical&hide_border=true" width="60%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushi9350&theme=tokyo-night&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushi9350&theme=redical&hide_border=true" width="90%"/>
 
 </div>
 
@@ -129,10 +129,16 @@ Currently working as a **Python Django Full Stack Developer Intern** at Skyway I
 
 ## 🎓 Certifications
 
-- 🟦 Python for Data Science — NPTEL
-- 🟩 Advanced Course on Green Skills & Artificial Intelligence — Edunet Foundation (Skills4Future)
-- 🟧 5-day STTP on Essential Python Libraries for ML & Data Visualization — LDRP-ITR
-- 🟪 National STTP on Linear Algebra for Machine Learning — LDRP-ITR
+| Certificate | Issuer | View |
+|---|---|---|
+| Python for Data Science | NPTEL | [🔍 View](certificates/nptel-python-data-science.jpg) |
+| Green Skills & Artificial Intelligence (Skills4Future) | Edunet Foundation + AICTE + Shell | [🔍 View](certificates/edunet-green-skills-ai.jpg) |
+| Workshop on Software Testing (Manual & Automation) | IEEE KSV Student Branch / LDRP-ITR | [🔍 View](certificates/ieee-software-testing-workshop.jpg) |
+| 5-day STTP — Essential Python Libraries for ML & Data Visualization | LDRP-ITR | [🔍 View](certificates/ldrp-python-libraries-ml.jpg) |
+| National STTP — Linear Algebra for Machine Learning | LDRP-ITR | 🔍 View *(upload pending)* |
+| Python Development Internship — Certificate of Completion | Synent Technologies | [🔍 View](certificates/synent-completion-certificate.jpg) |
+| Python Programming Internship — Certificate of Completion | Oasis Infobyte | [🔍 View](certificates/oasis-infobyte-certificate.jpg) |
+| Letter of Recommendation | Synent Technologies | [🔍 View](certificates/synent-recommendation-letter.jpg) |
 
 ---
 
